@@ -2,6 +2,8 @@
 
 Welcome to the Hologlyph Bots project! This repository contains the code and resources for a team of three holonomic drive robots designed to create large drawings resembling geoglyphs. The robots coordinate with each other using an overhead camera and are controlled via ROS2 and micro-ROS.
 ![IMG-20240311-WA0014](https://github.com/AKSHARDASH/Hologlyph-Bots/assets/134735494/3ad60f60-9bc0-40c7-b1d2-5fadb639e8d0)
+![IMG-20240311-WA0016](https://github.com/AKSHARDASH/Hologlyph-Bots/assets/134735494/0e0322c6-b0f7-4172-85dc-1ba296305be4)
+
 ![image](https://github.com/AKSHARDASH/Hologlyph-Bots/assets/134735494/f16bab98-53c4-4d3a-bc44-b458c90e8522)
 ![image](https://github.com/AKSHARDASH/Hologlyph-Bots/assets/134735494/211f872a-febb-43d8-89fd-15b9aed8ff21)
 
