@@ -75,5 +75,4 @@ Here you can insert images and links to the working demonstration of the robots:
 [Video Demonstration 2](https://youtu.be/E1_FC1jOoHo)
 
 
-
-Feel free to customize this README file further to fit your project's specific needs. Happy coding!
+#THANK YOU
