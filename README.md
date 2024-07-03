@@ -70,8 +70,10 @@ The robots are localized using Aruco markers. Ensure that the markers are placed
 Each robot is equipped with a pen mechanism controlled by a servo motor. The pen can be raised or lowered based on the drawing commands received from the ROS2 nodes.
 
 ## Demonstration
-Here you can insert images and links to the working demonstration of the robots:
+
 [Video Demonstration 1](https://www.youtube.com/watch?v=NF9OK72-EHQ)
+
+
 
 
 [Video Demonstration 2](https://youtu.be/E1_FC1jOoHo)
