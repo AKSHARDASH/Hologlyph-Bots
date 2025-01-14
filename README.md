@@ -7,8 +7,8 @@ Welcome to the Hologlyph Bots project! This repository contains the code and res
 
 Here are the contributors to this project:
 
-- [AKSHAR DASH](#)
-- [ROHAN MOHAPATRA](#)
+- [AKSHAR DASH](https://github.com/AKSHARDASH)
+- [ROHAN MOHAPATRA](https://github.com/ROHAN508)
 - [ANUP KUMAR NAYAK](#)
 - [CH PREMSAI PATRO](#)
 
